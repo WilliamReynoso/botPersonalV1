@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.14.0"
+  },
+  "name": "botpersonalv1",
+  "description": "Proyecto de bot personal para la materia de Backend I",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamReynoso/botPersonalV1.git"
+  },
+  "author": "William Paul Reynoso Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamReynoso/botPersonalV1/issues"
+  },
+  "homepage": "https://github.com/WilliamReynoso/botPersonalV1#readme"
+}
